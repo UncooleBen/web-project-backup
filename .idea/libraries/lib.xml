@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/DormManage_war_exploded/WEB-INF/lib/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/DormManage_war_exploded/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/DormManage_war_exploded/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/DormManage_war_exploded/WEB-INF/lib/mysql-connector-java-3.1.12-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
